@@ -5,7 +5,7 @@ import Home from './components/Home.js';
 import Welcome from './components/Welcome';
 import Header from './components/Header.js';
 import Footer from './components/Footer.js';
-import  'C:\React\portfoliosite\src\styles\header.css';
+import  'C:/React/portfoliosite/src/styles/header.css';
 function App() {
  
 
