@@ -8,7 +8,7 @@ class Window extends Component{
     render() {
         return (
           <div>
-            <h2>Pick a Time</h2>
+            <h2>Pick a Service</h2>
           </div>
         )
       }
